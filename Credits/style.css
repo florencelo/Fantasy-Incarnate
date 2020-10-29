@@ -1,0 +1,21 @@
+p {
+	color: black;
+	font-size: 25px;
+}
+
+a {
+	font-size: 20px;
+	text-align: center;
+}
+
+div {
+	padding: 30px;
+}
+
+body {
+	text-align: center;
+}
+
+header {
+	font-size: 70px;
+}
